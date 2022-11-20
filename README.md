@@ -1,6 +1,6 @@
 # 🌐 Site Pirituba - Youtube 🌐
 
-Site Criado para O Tutorial do Canal
+Site Criado para o Tutorial do Canal
 
 ## Sobre
 
