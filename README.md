@@ -1,1 +1,29 @@
-# Site-Pirituba
+# 🌐 Site Pirituba - Youtube 🌐
+
+Site Criado para O Tutorial do Canal
+
+## Sobre
+
+- Bonito 
+- Clean
+- Low Code
+
+
+
+
+
+## 🔵 Autores
+
+- [@SkillOnex](https://github.com/SkillOnex)
+
+
+
+## 🔵 Screenshots  
+
+
+![App Screenshot](https://media.discordapp.net/attachments/902529056334028803/1043990530578714715/image.png?width=984&height=498)
+
+
+## 🔵 Suporte
+
+Discord : 𝕾𝖐𝖎𝖑𝖑𝕺𝖓𝖊𝖝#7142
