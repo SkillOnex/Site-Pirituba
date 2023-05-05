@@ -23,7 +23,7 @@ Site Criado para o Tutorial do Canal
 ## 🔵 Screenshots  
 
 
-![App Screenshot](https://media.discordapp.net/attachments/902529056334028803/1043990530578714715/image.png?width=984&height=498)
+![App Screenshot](https://cdn.discordapp.com/attachments/1057713749110292610/1103871081221206046/pirituba.png?width=984&height=498)
 
 
 ## 🔵 Suporte
